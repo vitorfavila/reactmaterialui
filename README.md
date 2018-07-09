@@ -12,11 +12,7 @@ Noty 3.2.0-beta
 
 Sweetalert 2.1.0
 
-
-#### CSS
-Bulma 0.7.1
-
-FontAwesome Icons
+Material UI 1.3.1
 
 
 ## Build Commands
